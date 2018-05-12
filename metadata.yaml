@@ -1,0 +1,31 @@
+_repo: The-Practical-Ostrich-Feather-Dyer_45339
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45339-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Paul, Alexander (Instructor in feather dyeing)
+    gutenberg_agent_id: '43226'
+    url: http://www.gutenberg.org/2009/agents/43226
+  editor:
+    agent_name: Frank, M. (Morris), Dr.
+    alias: Frank, Morris Dr.
+    gutenberg_agent_id: '42179'
+    url: http://www.gutenberg.org/2009/agents/42179
+description: ''
+gutenberg_bookshelf: Crafts
+gutenberg_issued: '2014-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45339'
+  lccn: '54042304'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dyes and dyeing -- Feathers'
+- !lcc 'TP'
+title: The Practical Ostrich Feather Dyer
+url: http://www.gutenberg.org/ebooks/45339
